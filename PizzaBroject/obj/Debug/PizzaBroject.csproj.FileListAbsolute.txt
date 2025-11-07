@@ -1,0 +1,12 @@
+D:\WinFormsApps\PizzaBroject\bin\Debug\PizzaBroject.exe.config
+D:\WinFormsApps\PizzaBroject\bin\Debug\PizzaBroject.exe
+D:\WinFormsApps\PizzaBroject\bin\Debug\PizzaBroject.pdb
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.csproj.AssemblyReference.cache
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.Main_Form.resources
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.Properties.Resources.resources
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.csproj.GenerateResource.cache
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.csproj.CoreCompileInputs.cache
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.exe
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.pdb
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.exe.config
+D:\WinFormsApps\PizzaBroject\obj\Debug\PizzaBroject.Form2.resources
